@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Игральные кубики</string>
+    <string name="roll">Кинуть</string>
+</resources>
